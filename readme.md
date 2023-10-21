@@ -1,5 +1,7 @@
 # Three.js Galaxy generator
 
+web app: https://webgl-galaxy-generator-kappa.vercel.app/
+
 ```bash
 # Install dependencies (only the first time)
 npm install
